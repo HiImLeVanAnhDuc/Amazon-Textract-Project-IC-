@@ -12,14 +12,14 @@ Lại Văn Qúy    20110708
 # Những gì nhóm đã làm được
 - Tìm hiểu về Amazon và Amazon Textract
 - Đưa dữ liệu dạng ảnh (PNG,..) xuất ra chữ
-         - Dạng văn bản
-         - Dạng bảng
+         + Dạng văn bản
+         + Dạng bảng
 - Tải dữ liệu về file kiểu doc và csv
 
 # Video báo cáo của nhóm
-Lần 1: https://youtu.be/Tp-bN7STnXQ
-Lần 2: 
-Lần 3: 
+- Lần 1: https://youtu.be/Tp-bN7STnXQ
+- Lần 2: https://youtu.be/FBWcTGiQTAc
+- Lần 3: ...........................
 
 # Hạn chế
 - Chưa thực hiện được hết các chức năng của AWS Textract
